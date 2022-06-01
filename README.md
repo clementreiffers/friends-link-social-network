@@ -1,4 +1,4 @@
-# friends-link
+# friends-link-social-network
 
 <p align="center">
   <img src="README_files/friends_link.svg" width=180>
